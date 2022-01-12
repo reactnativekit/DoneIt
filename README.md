@@ -4,11 +4,11 @@
 #### Screenshot: `` WelcomeScreen.js ``
 
 <div align="center">
-<img src = "images/WelcomeScreen.png">
+<img src = "images/WelcomeScreen.png" width="250">
 </div>
 
 #### Screenshot: `` ViewImageScreen.js ``
 
 <div align="center">
-<img src = "images/ViewImageScreen.png">
+<img src = "images/ViewImageScreen.png" width="250">
 </div>
